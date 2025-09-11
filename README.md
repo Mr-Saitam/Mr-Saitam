@@ -17,7 +17,7 @@
 
 Soy **Matías**, un apasionado por la programación.  
 En mis ratos libres desarrollo proyectos personales y siempre busco aprender algo nuevo.  
-Además de la computacion y la programacion, me encantan los **autos**, la **mecánica**.
+Además de la computacion y la programacion, me encantan los **autos** y la **mecánica**.
 
 ---
 
