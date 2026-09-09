@@ -11,18 +11,29 @@
   </a>
 </div>
 
+<br clear="left"/>
+
 ---
 
 ### Sobre mí
 
-Soy **Matías**, un apasionado por la programación.  
-En mis ratos libres desarrollo proyectos personales y siempre busco aprender algo nuevo.  
-Además de la computacion y la programacion, me encantan los **autos** y la **mecánica**.
+Soy **Matías**, un apasionado por la programación.
+En mis ratos libres desarrollo proyectos personales y siempre busco aprender algo nuevo.
+Además de la computación y la programación, me encantan los **autos** y la **mecánica**.
 
 ---
 
 ### 🧰 Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,jquery,mysql,mongodb,java,git,vscode,idea,powershell,discordjs" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,nodejs,discordjs,react,jquery,mysql,mongodb,git,maven,linux,vscode,idea,powershell" alt="Tech Stack" />
 
 ---
+
+### 📊 Estadísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Saitam&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Saitam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Saitam&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Saitam&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
