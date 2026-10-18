@@ -35,7 +35,7 @@ Trabajo principalmente con backend, bots de Discord, plugins de Minecraft y serv
 
 ---
 
-### Stack tecnológico
+### Stack
 
 
 #### Lenguajes
